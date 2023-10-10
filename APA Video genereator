@@ -28,7 +28,7 @@ ui <- fluidPage( theme = shinytheme("cosmo"),
 
         # Show results
         mainPanel(
-          h1("Header 1"),
+          h1("Hmm not sure what I'm going to place here"),
           h4("Here's your citation :D"),
           verbatimTextOutput("txtout"),
           
